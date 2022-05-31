@@ -1,5 +1,5 @@
 # flipperzero-lrs-pagers
-FlipperZero Brute for of LRS Pager System
+FlipperZero Brute force of LRS Pager System
 
 This should brute force all resturaunt IDs and pager ids and alert/beep each one for 30s.
 
